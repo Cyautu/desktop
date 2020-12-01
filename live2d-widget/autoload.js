@@ -1,4 +1,4 @@
-const live2d_path = "https://cdn.jsdelivr.net/gh/yuu2b/cdn/live2d-widget/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/yuu2b/desktop/live2d-widget/";
 function loadExternalResource(url, type) {
 	return new Promise((resolve, reject) => {
 		let tag;
